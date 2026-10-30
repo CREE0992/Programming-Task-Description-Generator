@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/34161240/README.md)
 # 编程任务说明生成器
 
 明确修改目标、相关文件、约束和验收条件，生成可直接复用的任务说明。
